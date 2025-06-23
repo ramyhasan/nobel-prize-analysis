@@ -1,0 +1,86 @@
+تعتبر امريك المرتب الاول في عدد الحاصلين علي الجائزه بمجموع 297 و في المركز الثاني  ynited kingdom  93 و الثالث المانيا بي  67 و الرابع فرانسا 58 ثم السويد 30 
+
+
+و من خلال البيانات تعتبر عقد 2000 هو اكثر عقد حصلات امريكا علي اعلي عدد من الجوائز و هو 52 و كانت نسبه الاستحواز 42.28 
+
+و في الترتيب المجلات ياتي في المركز الاول economics , medicine,physics,chemisry,peace,literature 
+
+قد لحظت ان نسبه النساء هي 6.73% من النسبه الكليه حيث يحت الذكور 93.27% و هاذا فارق كبير جدا و يعتبر اكثر فئه فازت بها النساء peace then literature 
+
+و هانا سوف اكتب اسماي و المجال و العام لاول اشخاص فازو بي الجائزه 
+
+emil von behring _ chemistry-1901 
+marie curie -physics - 1903
+
+
+🔬 From Raw Data to Real Insight: Exploring Nobel Prize Trends 🧠
+
+I recently embarked on a data project that began on DataCamp using Python—and what started as a simple exercise quickly turned into a passion project.
+
+Using the Nobel Prize dataset (1901–2023), I dug deep to uncover stories and patterns behind the world's most prestigious awards. But first, I had to roll up my sleeves:
+
+The data wasn't clean, so I had to handle missing values
+
+Correct inconsistent formatting
+
+And remove irrelevant records that didn’t affect the analysis
+
+Once the data was clean, I shifted to Power BI to bring the insights to life with visual storytelling.
+
+📊 Key Insights:
+
+🏅 Top Countries by Total Nobel Laureates:
+
+🇺🇸 USA – 297
+
+🇬🇧 United Kingdom – 93
+
+🇩🇪 Germany – 67
+
+🇫🇷 France – 58
+
+🇸🇪 Sweden – 30
+
+📆 Most Successful Decade (USA):
+
+The 2000s, with 52 awards
+
+Holding 42.28% of global Nobel wins that decade
+
+📚 Top Categories (by number of awards):
+
+Economics
+
+Medicine
+
+Physics
+
+Chemistry
+
+Peace
+
+Literature
+
+👩‍🔬 Gender Gap in Nobel History:
+
+Only 6.73% of all winners were women
+
+Most awards for women were in Peace and Literature
+
+🏆 First Nobel Laureates Ever:
+
+Emil von Behring — Chemistry, 1901
+
+Marie Curie — Physics, 1903
+
+💡 Through this project, I’ve strengthened my skills in:
+
+Data Cleaning & Preparation
+
+Python for analysis
+
+Power BI for visualization and storytelling
+
+Proud to share this experience with the community—and looking forward to your thoughts!
+
+#NobelPrize #DataCleaning #Python #PowerBI #DataScience #DataAnalysis #WomenInSTEM #DataCamp #StorytellingWithData #Analytics #DataVisualization #NobelInsights #DataProject
