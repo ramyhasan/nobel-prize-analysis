@@ -38,7 +38,7 @@ This project started as a small Python exercise from a DataCamp course and grew 
 
 I'm **Ramy Hasan**, an aspiring data analyst with a passion for uncovering insights from messy data and transforming them into meaningful stories.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramy-hasan/) or reach out for feedback, collaboration, or just to chat!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramyhasan/) or reach out for feedback, collaboration, or just to chat!
 
 ---
 
