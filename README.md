@@ -28,7 +28,8 @@ This project started as a small Python exercise from a DataCamp course and grew 
 ---
 
 ## 📷 Dashboard Preview:
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](1.2.jpg)
+![Dashboard 1](2.2.jpg)
 
 
 ---
